@@ -1,5 +1,6 @@
 # Constellation Recognizer
 - Project under Physics and Astronomy Club IIT Roorkee.
+- Our goal is to automatically detect the constellations in an image based on the 88 constellations division by the IAU.
 - Implemented an algorithm to detect constellations in the night sky.
 - Used OpenCV with Python.
 
